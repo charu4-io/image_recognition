@@ -25,10 +25,31 @@ Built and tested entirely in **Google Colab**, this bootcamp walks through the f
 ## ▶️ How to Run
 
 ### **Open in Colab**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_COLAB_NOTEBOOK_LINK)
+[![Open In Colab](https://colab.research.google.com/drive/1N0nNO8uo4RkbrJvr4iGGa4iJqGyzFMPU?usp=sharing)
 
-### **Clone and Run Locally**
-```bash
-git clone https://github.com/yourusername/vision-ai-5days.git
-cd vision-ai-5days
-# Open notebook in Jupyter or upload to Google Colab
+---
+
+## 🔑 Key Features
+- Download & preprocess datasets (**CIFAR-10** by default; supports **MNIST** / **Cats vs Dogs**)
+- Resize & normalize images with **OpenCV**
+- Build & train custom **CNNs** from scratch
+- Implement **data augmentation** & **batch normalization**
+- Apply **transfer learning** with MobileNetV2
+- Evaluate models using:
+  - Accuracy
+  - Precision / Recall / F1-score
+  - Confusion Matrix
+  - ROC/AUC curves
+- Save, load, and test models on custom images
+
+---
+
+## 🛠 Skills Demonstrated
+- Deep Learning / Convolutional Neural Networks
+- Data preprocessing & augmentation
+- Model evaluation & visualization
+- Transfer learning (fine-tuning)
+- TensorFlow / Keras
+- OpenCV for image processing
+- Google Colab & Kaggle integration
+- GitHub project documentation
